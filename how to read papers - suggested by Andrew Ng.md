@@ -8,7 +8,7 @@
 
 ## 3. Read but skip/skim math
 
-## 4. Whole thingm but skip parts that don't make sense.
+## 4. Whole thing but skip parts that don't make sense.
 - when author writes the paper, but some parts are not important.
 
 ## Questions to ask yourself when reading
